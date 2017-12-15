@@ -18,7 +18,7 @@ https://www.dropbox.com/sh/8pf3m9hnt7792cj/AADI7p2i4NX4rmUnKjqCn7Waa?dl=0
 (선택) 코드 실행과정에서 생기므로 코드를 실행한다면 굳이 필요는 없습니다
 
 3. visualize.html<br/>
-(선택) 코드를 다 실행해준 다음에 visualize/makefile.py 파일을 실행해주면 생
+(선택) 코드를 다 실행해준 다음에 visualize/makefile.py 파일을 실행해주면 생깁니다
 
 
 ###### <s>Team01인 이유는 1등 팀이기 때문입니다.</s>
